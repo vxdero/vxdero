@@ -13,4 +13,4 @@
 
 - 💻 All of my projects are available [**here**](https://www.github.com/Videro1407)
 
-![My Discord Server!](https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2)
+- ![My Discord Server!](https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2)
