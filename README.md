@@ -2,8 +2,8 @@
 <h3 align="center">A graphic designer, visual editor and developer from New Delhi, India.</h3>
 <p align="left"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge" alt="videro1407" /></a> </p>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact" alt="videro1407" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en" alt="videro1407" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact" alt="videro1407" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en" alt="videro1407" /></p>
 
 
 - 🔭 I’m currently working on [**Robo-ArtiFeZ**](https://github.com/Videro1407/ArtiFeZ)
