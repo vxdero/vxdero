@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Videro!</h1>
-<h3 align="center">A graphic designer, visual editor and developer from New Delhi, India.</h3>
+<h3 align="center">A 17 year old graphic designer, visual editor and developer from New Delhi, India.</h3>
 
 - I’m currently working on [**Robo-ArtiFeZ**](https://github.com/Videro1407/ArtiFeZ)
 
