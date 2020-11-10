@@ -12,8 +12,8 @@
 
 <hr>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact" alt="videro1407" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en" alt="videro1407" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact&theme=dark" alt="videro1407" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en&theme=dark&layout=compact" alt="videro1407" /></p>
 
 <p align="center"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="videro1407" title="Follow me on Twitter!"/></a> </p>
 
