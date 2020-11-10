@@ -10,8 +10,8 @@
 
 - All of my projects are available [**here**](https://www.github.com/Videro1407)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="videro1407" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en&theme=graywhite&layout=compact" alt="videro1407" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="videro1407" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en&theme=graywhite&layout=compact" alt="videro1407" /></p>
 
 <p align="center"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="videro1407" title="Follow me on Twitter!"/></a> </p>
 
