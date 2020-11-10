@@ -17,4 +17,4 @@
 
 <p align="center"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge" alt="videro1407" /></a> </p>
 
-<img align="center" src="https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/>
+<p align="center"><img src="https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/></p>
