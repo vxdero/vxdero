@@ -6,7 +6,7 @@
 
 - I’m currently learning **Python, JavaScript and C++**
 
-- I’m looking for collaborators for [**TrixZ**](https://discordbotlist.com/bots/trixz)
+- I’m looking for collaborators for my project [**TrixZ**](https://discordbotlist.com/bots/trixz)
 
 - All of my projects are available [**here**](https://www.github.com/Videro1407)
 
