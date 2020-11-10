@@ -15,6 +15,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact" alt="videro1407" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en" alt="videro1407" /></p>
 
-<p align="center"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="videro1407" /></a> </p>
+<p align="center"> <a href="https://twitter.com/videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="videro1407" title="Follow me on Twitter!"/></a> </p>
 
 <p align="center"><img src="https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/></p>
