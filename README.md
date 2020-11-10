@@ -10,6 +10,8 @@
 
 - 💻 All of my projects are available [**here**](https://www.github.com/Videro1407)
 
+<hr style="width:50%">
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact" alt="videro1407" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=videro1407&show_icons=true&locale=en" alt="videro1407" /></p>
 
