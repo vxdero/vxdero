@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=videro1407&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="videro1407" />
 </p>
 <p align="left">
-  <a href="https://twitter.com/Videro1407" target="blank"><img src="https://img.shields.io/twitter/follow/videro1407?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="videro1407" title="Follow me on Twitter!"/></a>
+  <a href="https://twitter.com/vxdro" target="blank"><img src="https://img.shields.io/twitter/follow/vxdro?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="vxdro" title="Follow me on Twitter!"/></a>
 </p>
 <p align="left">
   <a href="https://discord.com/invite/keMaPa6" targer='blank'>
